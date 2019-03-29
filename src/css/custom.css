@@ -1,0 +1,197 @@
+/* html, body, #h{
+    height: 100%;
+    width: 100%
+}
+#home {
+    background-color: #f0f0f0;
+    margin:0 ;
+    padding:0 ;
+    max-width: 100%;
+    height:500px;
+
+}
+.fit-image{
+    width: 100%;
+    object-fit: cover;
+    height: inherit;
+}
+
+
+#cc{
+    margin:0;
+    padding:0;
+    max-width:100%;
+    height:auto;
+}
+#aa{
+    height:auto;
+    max-width:100%;
+    margin:0;
+    background: green;
+
+}
+ 
+.card {
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    max-width:280px;
+    background-color: red;
+    max-height: 40px;
+    /* object-fit: cover; 
+    margin: 10px auto;
+}
+.ab
+{
+    height:auto;
+    
+    margin: 20px 0;
+}
+
+.abc > div > div
+{
+    text-align: center;
+}
+.abc > div > div > img {
+    width:230px;
+}
+
+.r{
+    width:90%;
+    margin:0 auto;
+} */
+
+#knav{
+    background:rgba(0,0,0,0.5);
+}
+#ka{
+    width: 200px;height: 50px;
+}
+#kb1{
+    border:1px solid white;border-radius: 0px;border-right: 0px;width: 100px
+}
+#kb2{
+    border:1px solid white;border-radius: 0px;width: 100px;border-left-height: 5px;
+}
+#kstat{
+    background-color: #F3F3F3;
+}
+#ksm{
+    padding-top:50px;
+}
+#kstats{
+    padding-top:50px;
+}
+#kimgrb{
+
+	background-size: 100% auto;
+	background-size: cover;
+	width: 80%;
+	margin: auto 2em;
+
+}
+#kp1{
+    font-weight: bold;font-size: 25px;
+}
+#kp2{
+    font-weight: bold;font-size: 25px;
+}
+.flexBox
+  		{
+  			display: flex;
+  			flex-wrap: wrap;
+  		}
+  		.innerStatsFlex
+  		{
+  			width: 300px;
+  			margin: 30px 20px;
+  		}
+
+  		.specialInnerDiv
+  		{
+  			width: 355px;
+  			margin: 25px 15px;
+  		}
+
+  		.numberBox{
+  			width: 55px;font-size: 55px;float:left;font-weight: bold;color:#FECC00
+  		}
+		.boldTextBox
+		{
+			width: 300px;font-size: 18px;font-weight: bolder;padding-top:15px;
+		}
+		.lightTextBox
+		{
+			color:gray;font-size: 14px;
+		}
+		.bikeDiv
+		{
+			text-align: center;border-bottom:5px solid #9E9E9E;margin-left:0;margin-right:0;font-weight:bold; 
+		}
+  		.footer
+  		{
+  			background-color: #363636;
+  			color: #ffff;
+			  padding: 30px;
+			  
+  		}
+  		.footParaDiv
+  		{
+  			width: 80%;
+  			margin: 0 auto;
+  			margin-top: 20px;
+  		}
+  		.footParaDiv > p
+  		{
+  			font-size: 37px;
+  			font-weight: bold;
+  		}
+  		.footerText
+  		{
+  			text-align: justify;
+  		}
+		.navColor{
+			color: white;
+  		}
+		.firstDiv{
+			background-image: url("img/BgImage.jpg");
+			background-repeat: no-repeat;
+	 		background-size: 100% auto;
+	 		background-size: cover;
+	 		width: 100%;
+	 		height:400px;
+	 		padding-top: 20px;
+	}
+	.special
+	{
+		text-align: center;font-weight: bold;font-size:30px;margin: 10px;
+	}
+	.bikeMainDiv
+	{
+		background-color:#EEEEEE;padding:20px;
+	}
+	.respButton
+	{
+		width: 50px;border :1px solid white;margin: 2px;
+	}
+	.innerStatsFlexWrapper
+	{
+		width: 90%;margin: 0 auto;justify-content: center;
+	}
+	.statsImg
+	{
+		width: 100%;
+	}
+	.ourFleet
+	{
+		text-align: center;font-weight: bold;font-size:30px;margin: 10px;
+	}
+	.bikeWrapper
+	{
+		width: 90%;margin:0 auto;justify-content: center;background-color: #ffff;
+	}
+	.SPECIALITYwrapper
+	{
+		width: 90%;margin: 0 auto;justify-content: center;
+	}
+	.t{
+		
+	}

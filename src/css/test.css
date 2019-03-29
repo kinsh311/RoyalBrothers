@@ -1,0 +1,57 @@
+
+.col{
+    padding-right: 0;
+    padding-left: 0;
+
+}
+.landing{
+    background-color: aquamarine;
+    margin:0%;
+}
+.div-slide .slide{
+    height:500px
+}
+#r{
+    background-color:rgba(247, 247, 247, 0.315);
+    height:200px;
+    margin:0%;
+
+}
+.col-lg-3{
+    padding-top: 1.5cm;
+    
+    background-color: rgba(255, 255, 255, 0.288)
+}
+.card-img{
+        
+        object-fit: contain;
+        
+}
+#rr{
+    
+    margin: 0;
+    height: 450px
+}
+#rrr{
+    
+    z-index: +1;
+    height: 80px
+}
+.col-3 .col-sm{
+    z-index: +2;
+
+}
+#re{
+    margin:0;
+    padding:0;
+}
+#cold{
+    padding:0;
+
+}
+p{
+    font-size:0.82rem
+}
+h6{
+    font-weight: bold
+}
