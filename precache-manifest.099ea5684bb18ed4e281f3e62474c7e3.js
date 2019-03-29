@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/RoyalBrothers/static/css/2.8360ce7e.chunk.css"
   },
   {
-    "revision": "2742ab338aa1dd979171f8f9458341f9",
+    "revision": "ed7d90cfc8e55b7f04298dea45572dcb",
     "url": "/RoyalBrothers/index.html"
   }
 ];
