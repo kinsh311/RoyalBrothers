@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "3599c796e25aff1c0f5377baea14f1f2",
-    "url": "/RoyalBrothers/static/media/b3.3599c796.png"
+    "revision": "63cd77081479a5d171f9915afc720482",
+    "url": "/RoyalBrothers/static/media/b4.63cd7708.png"
   },
   {
-    "revision": "a8c40e784740dcb3395f",
-    "url": "/RoyalBrothers/static/css/main.2fa54783.chunk.css"
+    "revision": "0f1e020fee505edfcfcf",
+    "url": "/RoyalBrothers/static/css/main.40aa8790.chunk.css"
   },
   {
     "revision": "5a9dce2b30ecc12b6a50",
     "url": "/RoyalBrothers/static/js/runtime~main.eb0804a0.js"
   },
   {
-    "revision": "cb69963dd132c94db0d72c1b6043cb69",
-    "url": "/RoyalBrothers/static/media/BgImage.cb69963d.jpg"
+    "revision": "01b8265aff8ece86f2cd34a3de62c612",
+    "url": "/RoyalBrothers/static/media/w3newbie.01b8265a.png"
   },
   {
-    "revision": "7af15a5ef9ff6b5c07df",
-    "url": "/RoyalBrothers/static/js/2.0d77238d.chunk.js"
+    "revision": "127278d091df48f51cd1",
+    "url": "/RoyalBrothers/static/js/2.f75dc880.chunk.js"
   },
   {
     "revision": "1b028c4b7807ad0f9d2b65d39a21a6d3",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/RoyalBrothers/static/media/b2.c34ee6e6.png"
   },
   {
-    "revision": "a8c40e784740dcb3395f",
-    "url": "/RoyalBrothers/static/js/main.9530d468.chunk.js"
+    "revision": "3599c796e25aff1c0f5377baea14f1f2",
+    "url": "/RoyalBrothers/static/media/b3.3599c796.png"
   },
   {
-    "revision": "63cd77081479a5d171f9915afc720482",
-    "url": "/RoyalBrothers/static/media/b4.63cd7708.png"
+    "revision": "0f1e020fee505edfcfcf",
+    "url": "/RoyalBrothers/static/js/main.c27dbbb3.chunk.js"
   },
   {
     "revision": "1edfabb3aa2e89b562f745143b558f77",
@@ -92,11 +92,15 @@ self.__precacheManifest = [
     "url": "/RoyalBrothers/static/media/hindu1.b3f7cb51.png"
   },
   {
-    "revision": "7af15a5ef9ff6b5c07df",
+    "revision": "cb69963dd132c94db0d72c1b6043cb69",
+    "url": "/RoyalBrothers/static/media/BgImage.cb69963d.jpg"
+  },
+  {
+    "revision": "127278d091df48f51cd1",
     "url": "/RoyalBrothers/static/css/2.8360ce7e.chunk.css"
   },
   {
-    "revision": "02f01e57283980cf2004946e1b39c8ee",
+    "revision": "8a22e757df1b6dc9148ce30d2e733202",
     "url": "/RoyalBrothers/index.html"
   }
 ];
