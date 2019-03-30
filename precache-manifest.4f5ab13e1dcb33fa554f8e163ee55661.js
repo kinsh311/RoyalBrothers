@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "63cd77081479a5d171f9915afc720482",
-    "url": "/RoyalBrothers/static/media/b4.63cd7708.png"
+    "revision": "3599c796e25aff1c0f5377baea14f1f2",
+    "url": "/RoyalBrothers/static/media/b3.3599c796.png"
   },
   {
-    "revision": "0f1e020fee505edfcfcf",
-    "url": "/RoyalBrothers/static/css/main.40aa8790.chunk.css"
+    "revision": "0fb55879e0b3d5f14d64",
+    "url": "/RoyalBrothers/static/css/main.7fc4712c.chunk.css"
   },
   {
     "revision": "5a9dce2b30ecc12b6a50",
     "url": "/RoyalBrothers/static/js/runtime~main.eb0804a0.js"
   },
   {
-    "revision": "01b8265aff8ece86f2cd34a3de62c612",
-    "url": "/RoyalBrothers/static/media/w3newbie.01b8265a.png"
+    "revision": "cb69963dd132c94db0d72c1b6043cb69",
+    "url": "/RoyalBrothers/static/media/BgImage.cb69963d.jpg"
   },
   {
-    "revision": "127278d091df48f51cd1",
-    "url": "/RoyalBrothers/static/js/2.f75dc880.chunk.js"
+    "revision": "f3f6a8898038c1f25d50",
+    "url": "/RoyalBrothers/static/js/2.23dac0be.chunk.js"
   },
   {
     "revision": "1b028c4b7807ad0f9d2b65d39a21a6d3",
-    "url": "/RoyalBrothers/static/media/rbLogo.1b028c4b.png"
+    "url": "/RoyalBrothers/static/media/logo.1b028c4b.png"
   },
   {
     "revision": "ac4471d5f4b4df9ca8bd7721a351b618",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/RoyalBrothers/static/media/b2.c34ee6e6.png"
   },
   {
-    "revision": "3599c796e25aff1c0f5377baea14f1f2",
-    "url": "/RoyalBrothers/static/media/b3.3599c796.png"
+    "revision": "0fb55879e0b3d5f14d64",
+    "url": "/RoyalBrothers/static/js/main.dd72a1c2.chunk.js"
   },
   {
-    "revision": "0f1e020fee505edfcfcf",
-    "url": "/RoyalBrothers/static/js/main.c27dbbb3.chunk.js"
+    "revision": "63cd77081479a5d171f9915afc720482",
+    "url": "/RoyalBrothers/static/media/b4.63cd7708.png"
   },
   {
     "revision": "1edfabb3aa2e89b562f745143b558f77",
@@ -85,22 +85,18 @@ self.__precacheManifest = [
   },
   {
     "revision": "a02d3033226138529eb8b4ce80388601",
-    "url": "/RoyalBrothers/static/media/yourStory1.a02d3033.png"
+    "url": "/RoyalBrothers/static/media/p4.a02d3033.png"
   },
   {
     "revision": "b3f7cb51d3d3ab0a0ee362c616e3c71c",
-    "url": "/RoyalBrothers/static/media/hindu1.b3f7cb51.png"
+    "url": "/RoyalBrothers/static/media/p3.b3f7cb51.png"
   },
   {
-    "revision": "cb69963dd132c94db0d72c1b6043cb69",
-    "url": "/RoyalBrothers/static/media/BgImage.cb69963d.jpg"
-  },
-  {
-    "revision": "127278d091df48f51cd1",
+    "revision": "f3f6a8898038c1f25d50",
     "url": "/RoyalBrothers/static/css/2.8360ce7e.chunk.css"
   },
   {
-    "revision": "8a22e757df1b6dc9148ce30d2e733202",
+    "revision": "ebaf9a1f0dbb9e49cead13473bbbb180",
     "url": "/RoyalBrothers/index.html"
   }
 ];
