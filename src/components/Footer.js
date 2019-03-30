@@ -1,5 +1,5 @@
 import React from "react";
-import logo from './img/logo.png';
+import logo from '../assests/img/logo.png';
 import {Container, Row, Col} from 'reactstrap'
 const Footer = () => {
   return (
