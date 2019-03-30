@@ -1,28 +1,28 @@
 import React from 'react';
-import city from './img/city.JPG';
-import km from './img/km.JPG';
-import fb from './img/fb.JPG';
-import google from './img/google.JPG';
+import city from '../assets/img/city.JPG';
+import km from '../assets/img/km.JPG';
+import fb from '../assets/img/fb.JPG';
+import google from '../assets/img/google.JPG';
 import {Container, Row, Col} from 'reactstrap'
 
 const Stats = () => {
     return(
-            <Container id="kstat">
-                <Row class="">
-                    <Col lg="3" md="6" sm="6" xs="12" class="som">
-                        <img src={city} class="img-responsive statsImg"/>
+            <Container id="stats-container">
+                <Row>
+                    <Col lg="3" md="6" sm="6" xs="12" >
+                        <img src={city} className="img-responsive stats-img"/>
                     </Col>
             
-                    <Col lg="3" md="6" sm="6" xs="12" class="som">
-                        <img src={km} class="img-responsive statsImg"/>
+                    <Col lg="3" md="6" sm="6" xs="12" >
+                        <img src={km} className="img-responsive stats-img"/>
                     </Col>
             
-                    <Col lg="3" md="6" sm="6" xs="12" class="som">
-                        <img src={fb} class="img-responsive statsImg"/>
+                    <Col lg="3" md="6" sm="6" xs="12" >
+                        <img src={fb} className="img-responsive stats-img"/>
                     </Col>
             
-                    <Col lg="3" md="6" sm="6" xs="12" class="som">
-                        <img src={google} class="img-responsive statsImg"/>
+                    <Col lg="3" md="6" sm="6" xs="12" >
+                        <img src={google} className="img-responsive stats-img"/>
                     </Col>
                 </Row>
             </Container>

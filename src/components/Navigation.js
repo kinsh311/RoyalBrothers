@@ -1,6 +1,6 @@
 import React from "react";
-import rbLogo from "./img/rbLogo.png";
-import newb from "./img/w3newbie.png";
+import logo from "../assets/img/logo.png";
+
 import {
   Collapse,
   Navbar,
@@ -19,10 +19,10 @@ import {
 
 const Navigation = () => {
   return (
-    <Navbar expand="lg">
+    <Navbar expand="md">
       <Container fluid>
         <NavbarBrand href="#">
-          <img src={rbLogo} class="logo" />
+          <img src={logo} className="logo" />
         </NavbarBrand>
         <NavbarToggler
           type="button"
@@ -30,8 +30,8 @@ const Navigation = () => {
           data-target="#navbarNav"
           
         >
-          <span class="navbar-toggler-icon nav-default-color">
-            <i class="fa fa-bars"></i>
+          <span className="navbar-toggler-icon nav-default-color">
+            <i className="fa fa-bars"></i>
           </span>
         </NavbarToggler>
         <UncontrolledDropdown nav inNavbar className="dropdown">
@@ -45,7 +45,7 @@ const Navigation = () => {
           </DropdownMenu>
         </UncontrolledDropdown>
         <Collapse navbar id="navbarNav" className="ml-auto">
-          <Nav className="ml-auto">
+          <Nav className="ml-auto ">
             <NavItem>
               <NavLink href="#">Tariff</NavLink>
             </NavItem>

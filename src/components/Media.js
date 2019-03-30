@@ -1,29 +1,29 @@
 import React from 'react';
-import yourStory1 from './img/yourStory1.png';
-import toi1 from './img/toi1.png';
-import et1 from './img/et1.png';
-import hindu1 from './img/hindu1.png';
+import p4 from '../assets/img/p4.png';
+import p1 from '../assets/img/p1.png';
+import p2 from '../assets/img/p2.png';
+import p3 from '../assets/img/p3.png';
 const Media = () => {
     return(
-        <div class="StatsSection" id="kstats">
-        <div class="flexBox innerStatsFlexWrapper">
-            <div class="innerStatsFlex">
-                <img src={yourStory1}  class="img-responsive statsImg"/>
+        
+        <div className="flexBox media-out">
+            <div className="media-in">
+                <img src={p4}  className="img-responsive media-img"/>
             </div>
     
-            <div class="innerStatsFlex">
-                <img src={toi1}  class="img-responsive statsImg"/>
+            <div className="media-in">
+                <img src={p1}  className="img-responsive media-img"/>
             </div>
     
-            <div class="innerStatsFlex">
-                <img src={et1}  class="img-responsive statsImg"/>
+            <div className="media-in">
+                <img src={p2}  className="img-responsive media-img"/>
             </div>
     
-            <div class="innerStatsFlex">
-                <img src={hindu1}  class="img-responsive statsImg"/>
+            <div className="media-in">
+                <img src={p3}  className="img-responsive media-img"/>
             </div>
         </div>
-    </div>
+    
     )
 }
 export default Media

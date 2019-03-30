@@ -8,7 +8,7 @@ import Footer from "./Footer.js";
 
 const Landing = () => {
   return (
-    <div>
+    <div id="home">
       <Header />
 
       <Stats />

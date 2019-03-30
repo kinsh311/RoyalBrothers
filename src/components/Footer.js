@@ -1,20 +1,21 @@
 import React from "react";
-import rbLogo from './img/rbLogo.png';
+import logo from './img/logo.png';
+import {Container, Row, Col} from 'reactstrap'
 const Footer = () => {
   return (
-    <div class="container-fluid footer">
-      <div class="row">
-        <div class="col-lg-3 col-md-3 col-sm-12 image-fluid">
-          <img src={rbLogo} id="kimgrb" />
-        </div>
-        <div class="col-lg-3 col-md-3 col-sm-12">
-          <p id="kp1">COMPANY</p>
+    <Container fluid className="footer">
+      <Row>
+        <Col lg="3" md="3" sm="12" className="image-fluid">
+          <img src={logo} id="logo-image" />
+        </Col>
+        <Col lg="3" md="3" sm="12" className="footer-text">
+          <p className="footer-heading">COMPANY</p>
           <p>FAQ</p>
           <p>Privacy Policy</p>
           <p>Terms & Conditions</p>
-        </div>
+        </Col>
 
-        <div class="col-lg-3 col-md-3 col-sm-12">
+        <Col lg="3" md="3" sm="12" className="footer-text">
           <br />
           <br />
           <br />
@@ -23,17 +24,17 @@ const Footer = () => {
           <p>Reach Us</p>
           <p>About Us</p>
           <p>Sitemap</p>
-        </div>
+        </Col>
 
-        <div class="col-lg-3 col-md-3 col-sm-12">
-          <p id="kp2">FOLLOW</p>
+        <Col lg="3" md="3" sm="12" className="footer-text">
+          <p className="footer-heading">FOLLOW</p>
           <p>Facebook</p>
           <p>Twitter</p>
           <p>Instagram</p>
           <p>Linkedin</p>
-        </div>
-      </div>
-    </div>
+        </Col>
+      </Row>
+      </Container>
   );
 };
 export default Footer;
