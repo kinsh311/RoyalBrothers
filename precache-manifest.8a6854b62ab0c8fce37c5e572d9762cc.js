@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/RoyalBrothers/static/media/b3.3599c796.png"
   },
   {
-    "revision": "d2add47dc60db35d113e",
-    "url": "/RoyalBrothers/static/css/main.266e5981.chunk.css"
+    "revision": "a638e462025f758f3194",
+    "url": "/RoyalBrothers/static/css/main.8f14d55b.chunk.css"
   },
   {
     "revision": "5a9dce2b30ecc12b6a50",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/RoyalBrothers/static/media/BgImage.cb69963d.jpg"
   },
   {
-    "revision": "147ff708e5145365235f",
-    "url": "/RoyalBrothers/static/js/2.943b2dd6.chunk.js"
+    "revision": "7af15a5ef9ff6b5c07df",
+    "url": "/RoyalBrothers/static/js/2.0d77238d.chunk.js"
   },
   {
     "revision": "1b028c4b7807ad0f9d2b65d39a21a6d3",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/RoyalBrothers/static/media/b2.c34ee6e6.png"
   },
   {
-    "revision": "d2add47dc60db35d113e",
-    "url": "/RoyalBrothers/static/js/main.645cc34e.chunk.js"
+    "revision": "a638e462025f758f3194",
+    "url": "/RoyalBrothers/static/js/main.042f5be8.chunk.js"
   },
   {
     "revision": "63cd77081479a5d171f9915afc720482",
@@ -92,11 +92,11 @@ self.__precacheManifest = [
     "url": "/RoyalBrothers/static/media/hindu1.b3f7cb51.png"
   },
   {
-    "revision": "147ff708e5145365235f",
+    "revision": "7af15a5ef9ff6b5c07df",
     "url": "/RoyalBrothers/static/css/2.8360ce7e.chunk.css"
   },
   {
-    "revision": "ed7d90cfc8e55b7f04298dea45572dcb",
+    "revision": "545bb06195ecac29b7aa566f5db2df18",
     "url": "/RoyalBrothers/index.html"
   }
 ];
